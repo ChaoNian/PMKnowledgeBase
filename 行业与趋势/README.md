@@ -5,3 +5,4 @@
 **后续可沉淀：** 行业报告摘要、赛道笔记、技术趋势、政策与市场变化、定期观察清单等。
 产品行业知识
 定义聚合器：https://stratechery.com/2017/defining-aggregators/
+AI 咨询 https://www.lennysnewsletter.com/
